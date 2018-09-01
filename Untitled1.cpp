@@ -16,7 +16,7 @@ int main()
 		else
 			break;
 	}
-	//cout << c << "\n";
+	cout << c << "\n";
 	for(i = c; i < n; i++)
 		s2 += t[i];
 	//cout << s2 << "\n";
